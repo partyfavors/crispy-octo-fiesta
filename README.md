@@ -1,3 +1,6 @@
 # crispy-octo-fiesta
 octofiesta
 Codigo digial:Es aquel en el que la relación entre la información y los signos que la expresan es arbitraria. Un prototipo de código digital es el constituido por las palabras o los números.
+GitHub es una forja para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de ordenador. El software que opera GitHub fue escrito en Ruby on Rails. Desde enero de 2010, GitHub opera bajo el nombre de GitHub, Inc.![images](https://user-images.githubusercontent.com/92479338/137513233-04ba582f-0005-475e-948f-b4cb07f8d149.jpeg)
+Hackers target GitHub (and other popular Git hosting tools) for many reasons. But the biggest is the potential they see in hacking into repositories on GitHub and stealing (and potentially selling) intellectual property.GitHub is a highly used software that is typically used for version control. It is helpful when more than just one person is working on a project. Say for example, a software developer team wants to build a website and everyone has to update their codes simultaneously while working on the project.
+You can use organizations for free, with GitHub Free, which includes unlimited collaborators on unlimited public repositories with full features, and unlimited private repositories with limited features.
